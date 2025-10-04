@@ -16,9 +16,7 @@ export default function Page() {
 
       <header className="flex flex-col items-center gap-4">
         <BridgelessLogo />
-        <p className="mt-2 text-base md:text-xl text-muted-foreground text-pretty animate-in fade-in-0 duration-700 delay-200">
-          {"move btc across chains"}
-        </p>
+   
       </header>
 
       <div className="mt-6 animate-in fade-in-0 duration-700 delay-300">
